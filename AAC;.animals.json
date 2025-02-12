@@ -1,0 +1,174 @@
+[{
+  "_id": {
+    "$oid": "678af3072f7d1b05eb81f707"
+  },
+  "animal_type": "Dog",
+  "breed": "Beagle",
+  "sex_upon_outcome": "Neutered Male",
+  "age_upon_outcome_in_weeks": 40,
+  "outcome_type": "Transfer",
+  "location_lat": 30.652598,
+  "location_long": -97.741996,
+  "rescue_type": "Mountain"
+},
+{
+  "_id": {
+    "$oid": "678af3072f7d1b05eb81f708"
+  },
+  "animal_type": "Dog",
+  "breed": "Bulldog",
+  "sex_upon_outcome": "Intact Female",
+  "age_upon_outcome_in_weeks": 25,
+  "outcome_type": "Adoption",
+  "location_lat": 30.759575,
+  "location_long": -97.552375,
+  "rescue_type": "Water"
+},
+{
+  "_id": {
+    "$oid": "678af3072f7d1b05eb81f709"
+  },
+  "animal_type": "Dog",
+  "breed": "Golden Retriever",
+  "sex_upon_outcome": "Neutered Male",
+  "age_upon_outcome_in_weeks": 70,
+  "outcome_type": "Adoption",
+  "location_lat": 30.673737,
+  "location_long": -97.707972,
+  "rescue_type": "Disaster"
+},
+{
+  "_id": {
+    "$oid": "678af3072f7d1b05eb81f70a"
+  },
+  "animal_type": "Dog",
+  "breed": "Labrador Retriever Mix",
+  "sex_upon_outcome": "Spayed Female",
+  "age_upon_outcome_in_weeks": 56,
+  "outcome_type": "Adoption",
+  "location_lat": 30.502834,
+  "location_long": -97.456982,
+  "rescue_type": "Water"
+},
+{
+  "_id": {
+    "$oid": "678af3072f7d1b05eb81f70b"
+  },
+  "animal_type": "Dog",
+  "breed": "German Shepherd",
+  "sex_upon_outcome": "Intact Male",
+  "age_upon_outcome_in_weeks": 100,
+  "outcome_type": "Transfer",
+  "location_lat": 30.689125,
+  "location_long": -97.487654,
+  "rescue_type": "Mountain"
+},
+{
+  "_id": {
+    "$oid": "678af3072f7d1b05eb81f70c"
+  },
+  "animal_type": "Dog",
+  "breed": "Chesapeake Bay Retriever",
+  "sex_upon_outcome": "Intact Female",
+  "age_upon_outcome_in_weeks": 45,
+  "outcome_type": "Adoption",
+  "location_lat": 30.710293,
+  "location_long": -97.562948,
+  "rescue_type": "Water"
+},
+{
+  "_id": {
+    "$oid": "678af3072f7d1b05eb81f70d"
+  },
+  "animal_type": "Dog",
+  "breed": "Bloodhound",
+  "sex_upon_outcome": "Neutered Male",
+  "age_upon_outcome_in_weeks": 120,
+  "outcome_type": "Transfer",
+  "location_lat": 30.712456,
+  "location_long": -97.634821,
+  "rescue_type": "Disaster"
+},
+{
+  "_id": {
+    "$oid": "678af3072f7d1b05eb81f70e"
+  },
+  "animal_type": "Dog",
+  "breed": "Rottweiler",
+  "sex_upon_outcome": "Intact Male",
+  "age_upon_outcome_in_weeks": 75,
+  "outcome_type": "Adoption",
+  "location_lat": 30.710293,
+  "location_long": -97.562948,
+  "rescue_type": "Mountain"
+},
+{
+  "_id": {
+    "$oid": "678af3072f7d1b05eb81f70f"
+  },
+  "animal_type": "Dog",
+  "breed": "Doberman Pinscher",
+  "sex_upon_outcome": "Spayed Female",
+  "age_upon_outcome_in_weeks": 95,
+  "outcome_type": "Transfer",
+  "location_lat": 30.627894,
+  "location_long": -97.682345,
+  "rescue_type": "Disaster"
+},
+{
+  "_id": {
+    "$oid": "678af3072f7d1b05eb81f710"
+  },
+  "animal_type": "Dog",
+  "breed": "Newfoundland",
+  "sex_upon_outcome": "Neutered Male",
+  "age_upon_outcome_in_weeks": 65,
+  "outcome_type": "Adoption",
+  "location_lat": 30.596732,
+  "location_long": -97.563892,
+  "rescue_type": "Water"
+},
+{
+  "_id": { "$oid": "678af3072f7d1b05eb81f711" },
+  "animal_type": "Cat",
+  "breed": "Siamese",
+  "sex_upon_outcome": "Neutered Male",
+  "age_upon_outcome_in_weeks": 30,
+  "outcome_type": "Adoption",
+  "location_lat": 30.512398,
+  "location_long": -97.723654,
+  "rescue_type": "Water"
+},
+{
+  "_id": { "$oid": "678af3072f7d1b05eb81f712" },
+  "animal_type": "Cat",
+  "breed": "Maine Coon",
+  "sex_upon_outcome": "Spayed Female",
+  "age_upon_outcome_in_weeks": 45,
+  "outcome_type": "Transfer",
+  "location_lat": 30.462938,
+  "location_long": -97.682173,
+  "rescue_type": "Mountain"
+},
+{
+  "_id": { "$oid": "678af3072f7d1b05eb81f713" },
+  "animal_type": "Parrot",
+  "breed": "Macaw",
+  "sex_upon_outcome": "Intact Female",
+  "age_upon_outcome_in_weeks": 15,
+  "outcome_type": "Adoption",
+  "location_lat": 30.498327,
+  "location_long": -97.731264,
+  "rescue_type": "Water"
+},
+{
+  "_id": { "$oid": "678af3072f7d1b05eb81f714" },
+  "animal_type": "Hamster",
+  "breed": "Syrian",
+  "sex_upon_outcome": "Intact Male",
+  "age_upon_outcome_in_weeks": 10,
+  "outcome_type": "Adoption",
+  "location_lat": 30.587239,
+  "location_long": -97.541789,
+  "rescue_type": "Water"
+}]
